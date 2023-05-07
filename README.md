@@ -8,4 +8,4 @@ Classic minesweeper game, implemented in C++ with SDL2.
 - Add "mines left" counter.
 - Add a timer.
 - Add a reset button.
-- Animate and make it cool.
+- Animate and make it look good.
